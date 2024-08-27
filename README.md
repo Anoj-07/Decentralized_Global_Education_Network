@@ -2,6 +2,9 @@
 Decentralized network for global education partnerships.
 
 Global Education Network
+![image](https://github.com/user-attachments/assets/675ce3ef-7503-42d5-ad4f-ee838ececd6f)
+
+
 Vision
 
 The Global Education Network aims to revolutionize global education by creating a decentralized platform that facilitates educational partnerships, resource sharing, and verifiable credential issuance. By leveraging blockchain technology, this platform seeks to build trust and transparency among educational institutions worldwide, empowering students and institutions alike through a secure and immutable system.
@@ -53,7 +56,7 @@ Contact Information
 
 For more information or collaboration inquiries, please feel free to reach out:
 
-    Name: Anoj Rawal
+    Project Lead: Anoj Rawal
     Email: anojrawal039.adtu@gmail.com
     LinkedIn: https://www.linkedin.com/in/anoj-rawal-5623aa227/
 
