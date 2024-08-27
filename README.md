@@ -26,7 +26,7 @@ Below is a simplified flowchart of the Global Education Network's operations:
     Credential Verification:
         Credentials can be verified publicly through the blockchain, ensuring authenticity and integrity.
 
-Plaintext
+Flowchart
 
 [ Network Admin ] --> [ Register Institutions ]
                      --> [ Form Partnerships ]
