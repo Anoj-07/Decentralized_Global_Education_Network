@@ -2,7 +2,9 @@
 Decentralized network for global education partnerships.
 
 Global Education Network
+
 ![image](https://github.com/user-attachments/assets/675ce3ef-7503-42d5-ad4f-ee838ececd6f)
+
 
 
 Vision
