@@ -21,7 +21,7 @@ Below is a simplified flowchart of the Global Education Network's operations:
     Credential Verification:
         Credentials can be verified publicly through the blockchain, ensuring authenticity and integrity.
 
-plaintext
+Plaintext
 
 [ Network Admin ] --> [ Register Institutions ]
                      --> [ Form Partnerships ]
@@ -32,7 +32,7 @@ Smart Contract
 
 The smart contract is deployed on the Ethereum blockchain and handles the core functionality of the Global Education Network.
 
-    Contract Address: 0xdbC2dEF6275F6B9d40b5581b7721AFB60995bC20
+    Contract Address: 0x361a9215918b04D98e1658EBB50c6C87BaC27835
     Functions:
         addInstitution: Allows the network admin to add institutions.
         createPartnership: Institutions can form partnerships with other institutions.
